@@ -1,7 +1,5 @@
 Une implémentation en C++ du jeu d'échecs classique. Ce projet fournit une interface en ligne de commande pour jouer aux échecs contre l'ordinateur ou un autre joueur.
-## Introduction
 
-Cette implémentation du jeu d'échecs a été développée par Elvin Suleymanov. Elle utilise le langage de programmation C++ et fournit une interface basée sur une console pour jouer au jeu.
 ## Caractéristiques
 
 - Prend en charge les modes solo (contre l'ordinateur) et deux joueurs.
