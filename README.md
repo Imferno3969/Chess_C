@@ -27,6 +27,9 @@ Une implémentation en C++ du jeu d'échecs classique. Ce projet fournit une int
    ./chess
    ```
 
+PS : vous pouvez directement le lancer, il y a déjà le .exe si vous télécharger tout
+
+
 ## Utilisation
 
 1. Lancer le programme en exécutant l'exécutable.
